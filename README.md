@@ -1,1 +1,1 @@
-# I.A.-Project---Visual-Cryptography-With-Genetic-Algorithms
+# I.A.-Project-Visual-Cryptography-With-Genetic-Algorithms
